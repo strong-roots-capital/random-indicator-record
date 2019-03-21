@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/random-indicator-record",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Generate a random IndicatorRecord",
   "main": "dist/random-indicator-record.js",
   "types": "dist/random-indicator-record.d.ts",
