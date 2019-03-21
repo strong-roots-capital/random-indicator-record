@@ -29,12 +29,12 @@ const myContext = {timeframe: 1440, tradepair: 'CARROTSWHEY', exchange: 'Farmers
 const randomIRmyContext = randomIndicatorRecord(myContext)
 console.log(randomIRmyContext)
 //=>{ context:
-//   { timeframe: 1440,
-//     tradepair: 'CARROTSWHEY',
-//     exchange: 'Farmers Market' },
-//  record:
-//   { Time: 88, Open: 41, High: 117, Low: 17, Close: 75, Volume: 8265 },
-//  indicators: Map {} }
+//    { timeframe: 1440,
+//      tradepair: 'CARROTSWHEY',
+//      exchange: 'Farmers Market' },
+//   record:
+//    { Time: 88, Open: 41, High: 117, Low: 17, Close: 75, Volume: 8265 },
+//   indicators: Map {} }
 ```
 
 ## Related
